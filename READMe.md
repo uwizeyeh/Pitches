@@ -19,7 +19,7 @@ Prerequiites
 - Python 3.6
 - Ubuntu software
 ## Clone the Repo
-Run the following command on the terminal:
+Run the following command on the terminal:https://github.com/uwizeyeh/Pitches
 
 ## Technologies used
 - Python 3.6
