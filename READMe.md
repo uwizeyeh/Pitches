@@ -8,6 +8,11 @@ It show the pitches other people have posted and  vote on the pitch they liked a
 A user can select any of the categories from the navbar to view the pitches on these categories
 
 Other users can give feedback to the pitch posts by commenting, liking or disliking the pitch.
+## BDD
+This project work on post pitches,comment on them,upvote,downvote.
+A user can select any of the categories from the navbar to view the pitches on these categories
+Other users can give feedback to the pitch posts by commenting, liking or disliking the pitch.
+## BDD
 
 ## Set-up and Installation
 Prerequiites
